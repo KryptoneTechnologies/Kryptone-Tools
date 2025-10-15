@@ -50,7 +50,7 @@ Key Features
 •	Educational Focus: Perfect for students, security enthusiasts, and professionals looking to understand and practice ethical hacking methodologies in a controlled environment.
 •	Modular Design: Easily extensible architecture allowing for the addition of new tools and modules.
 
-<img width="2198" height="2198" alt="kép" src="https://github.com/user-attachments/assets/989a20da-b7a0-4b1b-b7a2-07e9cdd5b23b" />
+![Githubra](https://github.com/user-attachments/assets/8ee3b823-0bee-4038-ae53-e262d50dce8b)
 
 "We are Kryptone, we are finally free, we are finally awake!"
 
