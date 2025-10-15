@@ -52,3 +52,5 @@ Key Features
 
 <img width="2198" height="2198" alt="kép" src="https://github.com/user-attachments/assets/989a20da-b7a0-4b1b-b7a2-07e9cdd5b23b" />
 
+"We are Kryptone, we are finally free, we are finally awake!"
+
