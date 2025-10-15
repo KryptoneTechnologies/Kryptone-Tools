@@ -3,9 +3,12 @@
 https://kryptone-tools.com/ 
 
 
+
     Kryptone Tools - Advanced Penetration Testing Toolkit
 
 Kryptone Tools is a comprehensive, web-based penetration testing suite designed for educational purposes and professional security assessments. It consolidates a wide array of security tools into a unified platform, enabling efficient and methodical testing workflows.
+
+
 
 
     Core Functions
@@ -35,6 +38,8 @@ Craft and customize malicious payloads for various exploit frameworks (like Meta
 
   Breach Beacon
 A proactive monitoring tool that checks if corporate emails or domains have been involved in known data breaches, highlighting credential exposure risks.
+
+
 
     Key Features
 
