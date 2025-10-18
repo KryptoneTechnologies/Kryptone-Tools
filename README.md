@@ -19,7 +19,7 @@ Core Functions
 The platform is organized into several key functional areas:
 
   Reverse Shell Generator
-Instantly creates and encodes payloads to establish a remote command shell on a target machine, streamlining the post-exploitation phase.2. Encode / Decode
+Instantly creates and encodes payloads to establish a remote command shell on a target machine, streamlining the post-exploitation phase.
 
   Useful Linux & Windows Commands
 Quickly access a reference of powerful commands for post-exploitation tasks, from enumerating system info to manipulating services and files.
